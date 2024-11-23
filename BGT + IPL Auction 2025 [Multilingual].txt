@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/NTZBv6v/Star-Sports-1-HD.png" group-title="Sports", English
+http://starshare.live/anita123/anita123/124281
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/NTZBv6v/Star-Sports-1-HD.png" group-title="Sports", Hindi
+http://starshare.live/anita123/anita123/124287
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/NTZBv6v/Star-Sports-1-HD.png" group-title="Sports", Kannada
+http://starshare.live/anita123/anita123/380977
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/NTZBv6v/Star-Sports-1-HD.png" group-title="Sports", Tamil
+http://starshare.live/anita123/anita123/9722
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/NTZBv6v/Star-Sports-1-HD.png" group-title="Sports", Telugu
+http://starshare.live/anita123/anita123/177843
